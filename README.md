@@ -5,7 +5,8 @@ Posters displayed at the AFIA 2011 public event.
 (in French)
 [Bulletin AFIA about the event](https://afia.asso.fr/wp-content/uploads/2016/10/AFIA74.pdf) 
 
-These posters explain basic AI concepts to the lay public.
+
+These [posters](https://github.com/michaelaupetit/AFIA-2011-Open-Public-Event-on-AI/blob/main/Posters_AFIA_2011.pdf) explain basic AI concepts to the lay public.
 1. L’IA, C’EST QUOI ?, Michaël AUPETIT, Ricardo DE ALDAMA, Marine DEPECKER
 2. COMMENT RECONNAÎTRE UNE MACHINE INTELLIGENTE ?, Michaël AUPETIT, Ricardo DE ALDAMA, Marine DEPECKER
 3. COMMENT RECONNAITRE LES MOUVEMENTS D’UN JOUEUR DE JEUX VIDÉO ?, Aurélien MAYOUE
